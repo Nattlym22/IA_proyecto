@@ -1,0 +1,49 @@
+id,usuario,contraseña,edad,contextura,genero,orientacion_sexual,estatura,estado_civil,nivel_academico
+1,Hector,1234,joven,media,masculino,heterosexual,baja,viudo,basica primaria
+2,Rude,5678,joven,delgada,masculino,heterosexual,media,soltero,no presenta
+3,luifer,abcd,joven,delgada,masculino,heterosexual,alta,soltero,educación superior
+4,Heiber,efgh,adulto joven,promedio,masculino,heterosexual,media,soltero,no presenta
+5,Alejandro,ijkl,adulto joven,promedio,masculino,heterosexual,alta,soltero,no presenta
+6,Daniel,mnop,adulto mayor,promedio,masculino,heterosexual,alta,casado,educación superior
+7,Javier,qrst,adulto joven,delgada,masculino,homosexual,alta,soltero,no presenta
+8,Andres,uvwx,adulto joven,robusta,masculino,heterosexual,alta,casado,educación superior
+9,Juan,yzab,adulto joven,promedio,masculino,heterosexual,alta,soltero,educación superior
+10,Carlos,cdef,adulto joven,robusta,masculino,homosexual,alta,soltero,no presenta
+11,Diego,ghij,adulto joven,robusta,masculino,bisexual,media,soltero,educación superior
+12,Andrea,klmn,adulto joven,delgada,femenino,heterosexual,alta,soltero,no presenta
+13,Maria,opqr,adulto joven,media,femenino,heterosexual,baja,viuda,educación superior
+14,Valeria,stuv,adulto joven,delgada,femenino,heterosexual,alta,soltero,basica secundaria
+15,Sofia,wxyz,adulto joven,Robusta,femenino,heterosexual,media,casado,educación superior
+16,Valentina,1234,adulto joven,media,femenino,heterosexual,baja,soltero,no presenta
+17,Natalia,5678,adulto joven,delgada,femenino,heterosexual,alta,soltero,basica secundaria
+18,Gabriela,abcd,adulto joven,delgada,femenino,heterosexual,media,soltero,no presenta
+19,Camila,efgh,adulto joven,media,femenino,bisexual,baja,soltero,no presenta
+20,Laura,ijkl,adulto joven,delgada,femenino,bisexual,media,soltero,basica primaria
+21,Ana,mnop,adulto joven,delgada,femenino,heterosexual,alta,soltero,no presenta
+22,Pedro,qrst,adulto joven,robusta,masculino,heterosexual,alta,casado,educación superior
+23,Laura,uvwx,joven,delgada,femenino,heterosexual,media,soltero,no presenta
+24,Juan,yzab,adulto joven,promedio,masculino,heterosexual,alta,divorciado,no presenta
+25,Gabriela,cdef,adulto joven,delgada,femenino,heterosexual,media,soltero,basica secundaria
+26,Carlos,ghij,joven,robusta,masculino,homosexual,alta,casado,educación superior
+27,Maria,klmn,adulto joven,media,femenino,heterosexual,baja,casado,educación superior
+28,David,opqr,joven,delgada,masculino,heterosexual,media,divorciado,no presenta
+29,Andrea,stuv,adulto joven,delgada,femenino,heterosexual,alta,soltero,no presenta
+30,Camilo,wxyz,adulto joven,promedio,masculino,heterosexual,alta,soltero,educación superior
+31,Valentina,1234,adulto joven,media,femenino,heterosexual,baja,soltero,no presenta
+32,Daniel,5678,adulto joven,promedio,masculino,heterosexual,alta,soltero,educación superior
+33,Alejandra,abcd,adulto joven,delgada,femenino,heterosexual,alta,soltero,no presenta
+34,Santiago,efgh,adulto joven,robusta,masculino,heterosexual,alta,casado,educación superior
+35,Sofia,ijkl,joven,Robusta,femenino,heterosexual,media,casado,educación superior
+36,Patricia,mnop,adulto mayor,delgada,femenino,heterosexual,media,soltero,basica secundaria
+37,Roberto,qrst,adulto joven,promedio,masculino,heterosexual,alta,soltero,no presenta
+38,Laura,uvwx,adulto joven,delgada,femenino,bisexual,media,divorciada,no presenta
+39,Diana,yzab,adulto joven,robusta,femenino,homosexual,alta,soltero,basica secundaria
+40,Paula,cdef,adulto joven,media,femenino,heterosexual,baja,casado,educación superior
+41,Julia,3454,joven,delgada,femenino,heterosexual,alta,soltero,no presenta
+42,Nata,2323,joven,delgada,femenino,heterosexual,baja,viudo,no presenta
+43,vane,1234,joven,delgada,femenino,heterosexual,promedio,soltero,educación superior
+44,sara,coco,joven,promedio,femenino,heterosexual,alta,soltero,basica secundaria
+45,yai,1234,joven,promedio,femenino,homosexual,alta,soltero,basica secundaria
+46,Noa,1111,adulto joven,promedio,masculino,heterosexual,alta,divorciado,no presenta
+47,Lucifer,2222,adulto mayor,robusto,masculino,homosexual,baja,divorciado,educacion superior
+48,saul,1234,joven,delgado,masculino,promedio,soltero,heterosexual,no presenta 
